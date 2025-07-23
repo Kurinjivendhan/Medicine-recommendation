@@ -1,0 +1,2 @@
+# Medicine-recommendation
+This project recommends personalized medicines using the K-Nearest Neighbors (KNN) algorithm based on a patient’s age, gender, symptoms, and medical history. It compares new patient data with similar past cases to suggest the most suitable treatment. The system is built using Python and scikit-learn on a sample dataset.
