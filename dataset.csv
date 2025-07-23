@@ -1,0 +1,11 @@
+Age,Gender,Symptom1,Symptom2,Existing Disease,Recommended Medicine
+25,M,Fever,Cough,None,Paracetamol
+30,F,Headache,Nausea,Migraine,Sumatriptan
+45,M,Cough,Shortness of Breath,Asthma,Salbutamol
+60,F,Chest Pain,Fatigue,Heart Disease,Aspirin
+22,M,Sore Throat,Fever,None,Azithromycin
+35,F,Nausea,Abdominal Pain,Ulcer,Omeprazole
+50,F,Joint Pain,Fatigue,Arthritis,Ibuprofen
+28,M,Fever,Headache,None,Paracetamol
+65,F,Dizziness,Chest Pain,Hypertension,Amlodipine
+33,M,Nausea,Vomiting,Food Poisoning,ORS
